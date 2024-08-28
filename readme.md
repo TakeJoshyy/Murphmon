@@ -72,8 +72,8 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 # Banned Moves:
 
 `Any pure Healing Moves` **(Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)**
--Spore
--Assist
+
+**Note:** Both `Spore & Assist` are banned
 
 **NOTE:** You are allowed to use a banned move either through **metronome or after copying it using Mimic or Mirror Move.**
 
