@@ -4,7 +4,7 @@
 ## Core Game Rules
 
 You must only use 1 Pokemon for all fights and encounters except double battles unless otherwise denoted.  
-I.e. [`“Brock Buddy” rule.`](#specific-game-rules)
+I.e. [**“Brock Buddy” rule.**](#specific-game-rules)
 
 Permadeath: If your primary Pokemon faints, the game is over.
 
