@@ -58,10 +58,10 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 
 ---
 
-Banned items:'Any non-consumable held items. Reviving items. X Speed, X Attack, X Special Attack on Bosses only' (Gym Leaders, E4, Champ).
+Banned items:`Any non-consumable held items. Reviving items. X Speed, X Attack, X Special Attack on Bosses only` (Gym Leaders, E4, Champ).
 **NOTE:** You may not use flutes of any kind except for waking Snorlax.
 
-Banned Abilities: 'Battle Armor / Shell Armor'.
+Banned Abilities: `Battle Armor / Shell Armor`.
 **NOTE:** Pure Power and huge power are allowed so long as you NEVER use a physical attacking move. Pokemon 420 BST or Lower are exempt.
 
 Banned Moves: **Any pure Healing Moves (Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)**
