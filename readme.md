@@ -27,7 +27,7 @@ You can only enter a dungeon once with your primary Pokemon unless the story req
 You may not use healing stations in Dungeons.
 You must clear (Game progression without leaving to heal) Dungeons before exiting (Beat All Trainers in Gyms including Dojo, clear needed game progress elsewhere).
 **You may return to a Dungeon once with your Safari Pivot.**
-
+<p align="center">
 |    Dungeons   |
 | :-----------: |
 |All Gyms       |
@@ -39,8 +39,6 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 > You may not enter Lavender Tower until you have the Silph Scope and are ready to rescue Fuji
 
 > Rocket Hideout Includes the Game Corner
-SS Anne
-> You must obtain HM01 Cut before leaving SS Anne, fight order is your choice
 
 |     Caves     |
 | :-----------: |
@@ -52,6 +50,11 @@ SS Anne
 
 >Forests are NOT dungeons
 
+>SS Anne is NOT a dungeon
+
+>You must obtain HM01 Cut before leaving SS Anne, fight order is your choice
+
+</p>
 Banned items:'Any non-consumable held items. Reviving items. X Speed, X Attack, X Special Attack on Bosses only' (Gym Leaders, E4, Champ).
 **NOTE:** You may not use flutes of any kind except for waking Snorlax.
 
