@@ -1,13 +1,14 @@
-# Murphmon-Rules
+# Murphmon Rules
 
-### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [Fire Red Specifics](#specific-game-rules)
+### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [Fire Red Specifics Rules](#specific-game-rules)
 ## Core-Game-Rules
 
-You must only use 1 Pokemon for all fights and encounters except double battles unless otherwise denoted. I.e. “Brock Buddy” rule.
+You must only use 1 Pokemon for all fights and encounters except double battles unless otherwise denoted.
+I.e. “Brock Buddy” rule.
 
 Permadeath: If your primary Pokemon faints, the game is over.
 
-No Shops: You can only use items that you pick up, find as a held item on Pokemon or are given by an NPC, no use of stores except for any type of Pokeball or Repel.
+No Shops: You can only use items that you pick up, find as a held item on Pokemon or are given by an NPC, no use of stores **except for any type of Pokeball or Repel**.
 
 Select 3 “Favorites” prior to each run. These Pokemon are subject to the 555 BST or under rule.
 
@@ -19,7 +20,10 @@ No Redos: You may not re-fight trainers at any point using the VS Seeker or othe
 
 No HM Moves on your primary Pokemon. No may use HM moves during double battles with your second Pokemon.
 
-You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit. You may not use healing stations in Dungeons. You must clear (Game progression without leaving to heal) Dungeons before exiting (Beat All Trainers in Gyms including Dojo, clear needed game progress elsewhere). You may return to a Dungeon once with your Safari Pivot.
+You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit.
+You may not use healing stations in Dungeons.
+You must clear (Game progression without leaving to heal) Dungeons before exiting (Beat All Trainers in Gyms including Dojo, clear needed game progress elsewhere). 
+**You may return to a Dungeon once with your Safari Pivot.**
 
 |    Dungeons   |
 | :-----------: |
@@ -31,7 +35,9 @@ You can only enter a dungeon once with your primary Pokemon unless the story req
 |SS Anne        |
 
 > You may not enter until you have the Silph Scope and are ready to rescue Fuji
+
 > Rocket Hideout Includes the Game Corner
+
 > You must obtain HM01 Cut before leaving SS Anne, but you do not necessarily have to fight Rival before other trainers
 
 |     Caves     |
@@ -44,14 +50,17 @@ You can only enter a dungeon once with your primary Pokemon unless the story req
 
 >Forests are NOT dungeons
 
-Banned items:'Any non-consumable held items. Reviving items. X Speed, X Attack, X Special Attack on Bosses only' (Gym Leaders, E4, Champ). You may not use flutes of any kind except for waking Snorlax.
+Banned items:'Any non-consumable held items. Reviving items. X Speed, X Attack, X Special Attack on Bosses only' (Gym Leaders, E4, Champ).
+**NOTE:** You may not use flutes of any kind except for waking Snorlax.
 
-Banned Abilities: 'Battle Armor / Shell Armor'. Pure Power and huge power are allowed so long as you NEVER use a physical attacking move. Pokemon 420 BST or Lower are exempt.
+Banned Abilities: 'Battle Armor / Shell Armor'.
+**NOTE:** Pure Power and huge power are allowed so long as you NEVER use a physical attacking move. Pokemon 420 BST or Lower are exempt.
 
-Banned Moves: Any pure Healing Moves (Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)
+Banned Moves: **Any pure Healing Moves (Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)**
 -Spore
 -Assist
-You are allowed to use a banned move either through metronome or after copying it using Mimic or Mirror Move. Any pure setup move that isn't temporary and doesn't deal damage, such as Swords Dance, Focus Energy, Defense Curl, etc.
+**NOTE:** You are allowed to use a banned move either through metronome or after copying it using Mimic or Mirror Move.
+Any pure setup move that isn't temporary and doesn't deal damage, such as Swords Dance, Focus Energy, Defense Curl, etc.
 
 No healing outside of battle: PP, Health, or Status. You may use Rare Candy, PP UP, or PP MAX.
 
@@ -72,6 +81,7 @@ Settings String:
 '''bash
 321WRIEEjIBAAQABwCRAAKeBhsESQEACQACCQAuEgAAAAAABRi45ATkAYgICTIGBAIyHwUYEEZpcmUgUmVkIChVKSAxLjGToHDj48M4ig==
 '''
+
 These are the same settings as [Super Kaizo IronMON](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#fire-red--leaf-green)
 
 [Java](https://www.java.com/en/download/manual.jsp)
