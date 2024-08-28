@@ -3,12 +3,14 @@
 ### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [Fire Red Specifics Rules](#specific-game-rules)
 ## Core-Game-Rules
 
-You must only use 1 Pokemon for all fights and encounters except double battles unless otherwise denoted.
+You must only use 1 Pokemon for all fights and encounters except double battles unless otherwise denoted.  
 I.e. “Brock Buddy” rule.
 
 Permadeath: If your primary Pokemon faints, the game is over.
 
-No Shops: You can only use items that you pick up, find as a held item on Pokemon or are given by an NPC, no use of stores **except for any type of Pokeball or Repel**.
+No Shops: **Except for any type of Pokeball or Repel.**
+
+You can only use items that you pick up, find as a held item on Pokemon or are given by an NPC, no use of stores.
 
 Select 3 “Favorites” prior to each run. These Pokemon are subject to the 555 BST or under rule.
 
@@ -78,9 +80,9 @@ Settings String:
 
 # FRLG Murphmon Settings String
 
-'''bash
+```bash
 321WRIEEjIBAAQABwCRAAKeBhsESQEACQACCQAuEgAAAAAABRi45ATkAYgICTIGBAIyHwUYEEZpcmUgUmVkIChVKSAxLjGToHDj48M4ig==
-'''
+```
 
 These are the same settings as [Super Kaizo IronMON](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#fire-red--leaf-green)
 
