@@ -14,9 +14,10 @@ You can only use items that you pick up, find as a held item on Pokemon or are g
 
 Select 3 “Favorites” prior to each run. These Pokemon are subject to the 555 BST or under rule.
 
-Stolen Items: You may not keep stolen items from wild pokemon with moves like Thief, Covet, etc. Stealing them from a trainer battle is fine.
+Stolen Items: You may not keep stolen items from wild pokemon with moves like Thief, Covet, etc.  
+**Stealing them from a trainer battle is fine.**
 
-You may not intentionally kill a wild Pokemon for EXP unless game progression requires you to do so, depicted in a specific game rule (refer to rule 3) or it is a Shiny Pokemon.
+You may not intentionally kill a wild Pokemon for EXP unless game progression requires you to do so, depicted in a specific game rule [(refer to rule 3)](#specific-game-rules) or it is a Shiny Pokemon.
 
 No Redos: You may not re-fight trainers at any point using the VS Seeker or other means. You may not abuse respawning items by picking them up more than once
 
@@ -24,7 +25,7 @@ No HM Moves on your primary Pokemon. No may use HM moves during double battles w
 
 You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit.
 You may not use healing stations in Dungeons.
-You must clear (Game progression without leaving to heal) Dungeons before exiting (Beat All Trainers in Gyms including Dojo, clear needed game progress elsewhere). 
+You must clear (Game progression without leaving to heal) Dungeons before exiting (Beat All Trainers in Gyms including Dojo, clear needed game progress elsewhere).
 **You may return to a Dungeon once with your Safari Pivot.**
 
 |    Dungeons   |
@@ -34,13 +35,12 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 |Rocket Hideout |
 |Silph co       |
 |Pokemon Mansion|
-|SS Anne        |
 
-> You may not enter until you have the Silph Scope and are ready to rescue Fuji
+> You may not enter Lavender Tower until you have the Silph Scope and are ready to rescue Fuji
 
 > Rocket Hideout Includes the Game Corner
-
-> You must obtain HM01 Cut before leaving SS Anne, but you do not necessarily have to fight Rival before other trainers
+SS Anne
+> You must obtain HM01 Cut before leaving SS Anne, fight order is your choice
 
 |     Caves     |
 | :-----------: |
