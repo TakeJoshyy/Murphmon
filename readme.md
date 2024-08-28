@@ -182,3 +182,5 @@ These are the same settings as [Super Kaizo IronMON](https://gist.github.com/UTD
 15. Double battles: you may use any legal second mon you have already caught. You may attack freely with the second mon and it may hold legal held items. You may only have 2 Pokemon in your party.
 
 16. All held items found on pivot options, Brockbuddies, HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed. Purchased/gifted mon's items are not allowed i.e. Magikarp Route 4, Silph Co. Lapras, Dojo Hitmon. You may not catch a wild mon unless it is a pivot option, Brockbuddy, Shiny or needed for HM friend.
+
+### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [Fire Red Specifics Rules](#specific-game-rules)
