@@ -29,7 +29,6 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 **You may return to a Dungeon once with your Safari Pivot.**
 
 ---
-<p align="center">
 
 |    Dungeons   |
 | :-----------: |
@@ -56,8 +55,6 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 >SS Anne is NOT a dungeon
 
 >You must obtain HM01 Cut before leaving SS Anne, fight order is your choice
-
-</p>
 
 ---
 
