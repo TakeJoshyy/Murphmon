@@ -8,7 +8,7 @@ I.e. `“Brock Buddy” rule.`
 
 Permadeath: If your primary Pokemon faints, the game is over.
 
-No Shops: **Except for any type of Pokeball or Repel.**
+No Shopping: **Except for any type of Pokeball or Repel.**
 
 You can only use items that you pick up, find as a held item on Pokemon or are given by an NPC, no use of stores.
 
@@ -37,10 +37,13 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 |Rocket Hideout |
 |Silph co       |
 |Pokemon Mansion|
+|SS Anne        |
 
 > You may not enter Lavender Tower until you have the Silph Scope and are ready to rescue Fuji
 
 > Rocket Hideout Includes the Game Corner
+
+>You must obtain HM01 Cut before leaving SS Anne, fight order is your choice
 
 |     Caves     |
 | :-----------: |
@@ -51,10 +54,6 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 |Victory Road   |
 
 >Forests are NOT dungeons
-
->SS Anne is NOT a dungeon
-
->You must obtain HM01 Cut before leaving SS Anne, fight order is your choice
 
 ---
 
@@ -72,19 +71,19 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 
 # Banned Moves:
 
-**Any pure Healing Moves (Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)**
+`Any pure Healing Moves` **(Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)**
 -Spore
 -Assist
 
-**NOTE:** You are allowed to use a banned move either through metronome or after copying it using Mimic or Mirror Move.
+**NOTE:** You are allowed to use a banned move either through **metronome or after copying it using Mimic or Mirror Move.**
 
-Any pure setup move that isn't temporary and doesn't deal damage, such as Swords Dance, Focus Energy, Defense Curl, etc.
+Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc.
 
 # Other General Rules
 
 No healing outside of battle: PP, Health, or Status. You may use Rare Candy, PP UP, or PP MAX.
 
-You DO NOT have to let your Pokemon Evolve
+You **DO NOT** have to let your Pokemon Evolve
 
 You may only hold consumable held items
 
@@ -130,23 +129,39 @@ These are the same settings as [Super Kaizo IronMON](https://gist.github.com/UTD
 
 # Specific Game Rules
 
-1. You may pick any mon you want in the lab that is 555 BST or lower. You may keep its held item. No legendaries allowed. If you evolve into a Pokemon that is over 555 BST, you may use that Pokemon so long as it aligns with Ability rules.
+1. You may pick any mon you want in the lab that is 555 BST or lower. You may keep its held item. **No legendaries allowed.** If you evolve into a Pokemon that is over 555 BST, you may use that Pokemon so long as it aligns with Ability rules.
 
 2. All items are allowed in the lab.
 
-3. Pivoting: You may catch up to 3 total unique mons from any area (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and lab mon. You may keep items held by Pokemon. You must pivot before the first trainer fight after the lab. You may NOT pivot again until the Safari Zone. You may receive EXP from 1 wild mon prior to fighting the first trainer but you MUST run the mon that received EXP and avoid receiving additional EXP from wilds at all costs. You may use any Mon at the front of your party until you lock in your pivot. You may catch 1 free favorite each. You may catch a second of the same favorite but it will count towards your 3 pivots. Banned ability mons don't count towards your catches UNLESS you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon).
+3. Pivoting: 
+    -You may catch up to 3 total unique mons from any area (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and lab mon. You may keep items held by Pokemon. 
+    -You must pivot before the first trainer fight after the lab. You may NOT pivot again until the Safari Zone. 
+    -You may receive EXP from 1 wild mon prior to fighting the first trainer but you MUST run the mon that received EXP and avoid receiving additional EXP from wilds at all costs. 
+    -You may use any Mon at the front of your party until you lock in your pivot. 
+    -You may catch 1 free favorite each. 
+    -You may catch a second of the same favorite but it will count towards your 3 pivots. 
+    -Banned ability mons don't count towards your catches UNLESS you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon).
 
-4. "Brock Buddy": You may catch a second Pokemon to fight with in the Pewter City Gym only This must be the first Pokemon you encounter on the route 2 Grass AFTER Viridian Forest. There are no restrictions[Illegal abilities/BSTs allowed]. Catch the first encounter or bust. Brock Buddy may faint but your primary Pokemon cannot. You may use Brockbuddy to lead fights, multiple swaps, or any way you see fit EXCEPT using illegal moves.
+4. "Brock Buddy": 
+    -You may catch a second Pokemon to fight with in the Pewter City Gym only 
+    -This must be the first Pokemon you encounter on the route 2 Grass AFTER Viridian Forest. 
+    -There are no restrictions[Illegal abilities/BSTs allowed]. 
+    -Catch the first encounter or bust. 
+    -Brock Buddy may faint but your primary Pokemon cannot. 
+    -You may use Brockbuddy to lead fights, multiple swaps, or any way you see fit **EXCEPT using illegal moves.**
 
 5. All hidden items are allowed. You may only obtain step items once each.
 
-6. All found and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed (i.e. mega punch/kick guys after mt. Moon). No HMs. You may only relearn Sketch once from the move relearner. You may use Sketch multiple times if you receive the move in any other capacity. You are allowed to throw balls to scout. BUT, if you accidentally catch a mon while Sketch scouting you must release it and not take its item.
+6. All found and gifted TMs are allowed - all move tutors are allowed `(i.e. mega punch/kick guys after mt. Moon).` - **No HMs.**
+    -You may only relearn Sketch once from the move relearner. 
+    -You may use Sketch multiple times if you receive the move in any other capacity. 
+    -You are allowed to throw balls to scout. BUT, if you accidentally catch a mon while Sketch scouting you must release it and not take its item.
 
 7. You must beat Misty before “Dig” Rocket.
 
 8. You must beat Lt. Surge before entering  Rock Tunnel.
 
-9. SS Anne EXP and item farming is allowed (Treat this as a dungeon).
+9. SS Anne EXP and item farming is allowed
 
 10. You must beat Erika before waking up Snorlax.
 
