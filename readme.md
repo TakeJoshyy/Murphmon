@@ -133,29 +133,29 @@ These are the same settings as [Super Kaizo IronMON](https://gist.github.com/UTD
 
 2. All items are allowed in the lab.
 
-3. Pivoting: 
-    -You may catch up to 3 total unique mons from any area (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and lab mon. You may keep items held by Pokemon. 
-    -You must pivot before the first trainer fight after the lab. You may NOT pivot again until the Safari Zone. 
-    -You may receive EXP from 1 wild mon prior to fighting the first trainer but you MUST run the mon that received EXP and avoid receiving additional EXP from wilds at all costs. 
-    -You may use any Mon at the front of your party until you lock in your pivot. 
-    -You may catch 1 free favorite each. 
-    -You may catch a second of the same favorite but it will count towards your 3 pivots. 
-    -Banned ability mons don't count towards your catches UNLESS you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon).
+3. Pivoting:
+    - You may catch up to 3 total unique mons from any area (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and lab mon. You may keep items held by Pokemon. 
+    - You must pivot before the first trainer fight after the lab. You may NOT pivot again until the Safari Zone. 
+    - You may receive EXP from 1 wild mon prior to fighting the first trainer but you MUST run the mon that received EXP and avoid receiving additional EXP from wilds at all costs. 
+    - You may use any Mon at the front of your party until you lock in your pivot. 
+    - You may catch 1 free favorite each. 
+    - You may catch a second of the same favorite but it will count towards your 3 pivots. 
+    - Banned ability mons don't count towards your catches UNLESS you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon).
 
 4. "Brock Buddy": 
-    -You may catch a second Pokemon to fight with in the Pewter City Gym only 
-    -This must be the first Pokemon you encounter on the route 2 Grass AFTER Viridian Forest. 
-    -There are no restrictions[Illegal abilities/BSTs allowed]. 
-    -Catch the first encounter or bust. 
-    -Brock Buddy may faint but your primary Pokemon cannot. 
-    -You may use Brockbuddy to lead fights, multiple swaps, or any way you see fit **EXCEPT using illegal moves.**
+    - You may catch a second Pokemon to fight with in the Pewter City Gym only 
+    - This must be the first Pokemon you encounter on the route 2 Grass AFTER Viridian Forest. 
+    - There are no restrictions[Illegal abilities/BSTs allowed]. 
+    - Catch the first encounter or bust. 
+    - Brock Buddy may faint but your primary Pokemon cannot. 
+    - You may use Brockbuddy to lead fights, multiple swaps, or any way you see fit **EXCEPT using illegal moves.**
 
 5. All hidden items are allowed. You may only obtain step items once each.
 
 6. All found and gifted TMs are allowed - all move tutors are allowed `(i.e. mega punch/kick guys after mt. Moon).` - **No HMs.**
-    -You may only relearn Sketch once from the move relearner. 
-    -You may use Sketch multiple times if you receive the move in any other capacity. 
-    -You are allowed to throw balls to scout. BUT, if you accidentally catch a mon while Sketch scouting you must release it and not take its item.
+    - You may only relearn Sketch once from the move relearner. 
+    - You may use Sketch multiple times if you receive the move in any other capacity. 
+    - You are allowed to throw balls to scout. BUT, if you accidentally catch a mon while Sketch scouting you must release it and not take its item.
 
 7. You must beat Misty before “Dig” Rocket.
 
