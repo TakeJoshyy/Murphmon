@@ -152,9 +152,9 @@ These are the same settings as [Super Kaizo IronMON](https://gist.github.com/UTD
 
 5. All hidden items are allowed. You may only obtain step items once each.
 
-6. All found and gifted TMs are allowed - all move tutors are allowed `(i.e. mega punch/kick guys after mt. Moon).` - **No HMs.**
-    - You may only relearn Sketch once from the move relearner. 
-    - You may use Sketch multiple times if you receive the move in any other capacity. 
+6. All found and gifted TMs are allowed - all move tutors are allowed (i.e. mega punch/kick guys after mt. Moon). - **No HMs.**
+    - You may only relearn Sketch once from the move relearner.
+    - You may use Sketch multiple times if you receive the move in any other capacity.
     - You are allowed to throw balls to scout. BUT, if you accidentally catch a mon while Sketch scouting you must release it and not take its item.
 
 7. You must beat Misty before “Dig” Rocket.
@@ -183,4 +183,4 @@ These are the same settings as [Super Kaizo IronMON](https://gist.github.com/UTD
 
 16. All held items found on pivot options, Brockbuddies, HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed. Purchased/gifted mon's items are not allowed i.e. Magikarp Route 4, Silph Co. Lapras, Dojo Hitmon. You may not catch a wild mon unless it is a pivot option, Brockbuddy, Shiny or needed for HM friend.
 
-### [Top](#murphmon-rules) [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [Fire Red Specifics Rules](#specific-game-rules)
+### [Top](#murphmon-rules) | [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [Fire Red Specifics Rules](#specific-game-rules)
