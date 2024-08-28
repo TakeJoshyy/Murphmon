@@ -59,9 +59,11 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 
 # Banned items:
 
-`Any non-consumable held items. Reviving items. X Speed, X Attack, X Special Attack on Bosses only` (Gym Leaders, E4, Champ).
+`Any non-consumable held items. Reviving items.`
 
-**NOTE:** You may use all flutes other than the `PokeFlute`
+**NOTE:** You may use all flutes other than the `Poke Flute`
+
+>Poke Flute can be used to wake Snorlax
 
 # Banned Abilities:
 
@@ -118,7 +120,7 @@ Settings String:
 # FRLG Murphmon Settings String
 
 ```bash
-321WRIEEjIBAAQABwCRAAKeBhsECQEAFAACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyGwU
+321WRIEEjIBAAQABwCRAAKeBhsECQEAFAACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyGwUgEEZpcmUgUmVkIChVKSAxLjHCuyBD48M4ig==
 ```
 
 **NOTE:** Not the same as Kaizo IronMON
