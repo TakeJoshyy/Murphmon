@@ -4,7 +4,7 @@
 ## Core-Game-Rules
 
 You must only use 1 Pokemon for all fights and encounters except double battles unless otherwise denoted.  
-I.e. “Brock Buddy” rule.
+I.e. `“Brock Buddy” rule.`
 
 Permadeath: If your primary Pokemon faints, the game is over.
 
@@ -58,17 +58,29 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 
 ---
 
-Banned items:`Any non-consumable held items. Reviving items. X Speed, X Attack, X Special Attack on Bosses only` (Gym Leaders, E4, Champ).
+# Banned items:
+
+`Any non-consumable held items. Reviving items. X Speed, X Attack, X Special Attack on Bosses only` (Gym Leaders, E4, Champ).
+
 **NOTE:** You may not use flutes of any kind except for waking Snorlax.
 
-Banned Abilities: `Battle Armor / Shell Armor`.
+# Banned Abilities:
+
+`Battle Armor / Shell Armor`.
+
 **NOTE:** Pure Power and huge power are allowed so long as you NEVER use a physical attacking move. Pokemon 420 BST or Lower are exempt.
 
-Banned Moves: **Any pure Healing Moves (Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)**
+# Banned Moves:
+
+**Any pure Healing Moves (Recover, Milk Drink, Leech Seed, Ingrain, Wish, Etc.. Refresh/Aroma etc)**
 -Spore
 -Assist
+
 **NOTE:** You are allowed to use a banned move either through metronome or after copying it using Mimic or Mirror Move.
+
 Any pure setup move that isn't temporary and doesn't deal damage, such as Swords Dance, Focus Energy, Defense Curl, etc.
+
+# Other General Rules
 
 No healing outside of battle: PP, Health, or Status. You may use Rare Candy, PP UP, or PP MAX.
 
@@ -80,9 +92,29 @@ All shinies are free catches or kills.
 
 # Settings
 
-Randomize the game. All Pokémon, movesets, and items are randomized, with Trainer Pokémon & Wild Pokémon levels increased by 50%. All Pokemon must have Fluctuating Growth Rates. All opponents must have Smart AI(requires patch or SmartAI randomizer). All opponents must have sensible and consumable held items. All move tutors, TMs, and items must be randomized. Static Pokémon MUST NOT have level increase. No "Make Evolutions Easier". Forced Fully Evolved at Level 30. All Boss trainers must have 6 Pokemon. Ensure you set your battle style to “Shift” in game for Pewter Gym fights for best value. Return battle style to “Set” after Brock fight to avoid accidental illegal swapping.
+Randomize the game. 
 
-Settings String:
+All Pokémon, movesets, and items are randomized, with Trainer Pokémon & Wild Pokémon levels increased by 50%. 
+
+All Pokemon must have Fluctuating Growth Rates. 
+
+All opponents must have Smart AI(requires patch or SmartAI randomizer). 
+
+All opponents must have sensible and consumable held items. 
+
+All move tutors, TMs, and items must be randomized. 
+
+Static Pokémon MUST NOT have level increase. 
+
+`No "Make Evolutions Easier".`
+
+Forced Fully Evolved at Level 30. 
+
+All Boss trainers must have 6 Pokemon. 
+
+**Note:** Ensure you set your battle style to “Shift” in game for Pewter Gym fights for best value.
+
+**Note:** Return battle style to “Set” after Brock fight to avoid accidental illegal swapping.
 
 # FRLG Murphmon Settings String
 
