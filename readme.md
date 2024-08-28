@@ -1,10 +1,10 @@
 # Murphmon Rules
 
 ### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [Fire Red Specifics Rules](#specific-game-rules)
-## Core-Game-Rules
+## Core Game Rules
 
 You must only use 1 Pokemon for all fights and encounters except double battles unless otherwise denoted.  
-I.e. `“Brock Buddy” rule.`
+I.e. [`“Brock Buddy” rule.`](#specific-game-rules)
 
 Permadeath: If your primary Pokemon faints, the game is over.
 
