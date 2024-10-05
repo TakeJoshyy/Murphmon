@@ -103,7 +103,7 @@ All Pokemon must have Fluctuating Growth Rates.
 
 All opponents must have Smart AI(requires patch or SmartAI randomizer). 
 
-All opponents must have sensible and consumable held items. 
+ALL opponents must have sensible and consumable held items. 
 
 All move tutors, TMs, and items must be randomized. 
 
@@ -114,6 +114,8 @@ Static Pokémon MUST NOT have level increase.
 Forced Fully Evolved at Level 30. 
 
 All Boss trainers must have 6 Pokemon. 
+
+Catch Rate set to "4"
 
 **Note:** Ensure you set your battle style to “Shift” in game for Pewter Gym fights for best value.
 
