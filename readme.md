@@ -140,8 +140,7 @@ These are the same settings as [Super Kaizo IronMON](https://gist.github.com/UTD
     - You must pivot before the first trainer fight after the lab. You may NOT pivot again until the Safari Zone. 
     - You may receive EXP from 1 wild mon prior to fighting the first trainer but you MUST run the mon that received EXP and avoid receiving additional EXP from wilds at all costs. 
     - You may use any Mon at the front of your party until you lock in your pivot. 
-    - You may catch 1 free favorite each. 
-    - You may catch a second of the same favorite but it will count towards your 3 pivots. 
+    - You may catch 1 free favorite each. You may catch a second of the same favorite but it will count towards your 3 pivots. 
     - Banned ability mons don't count towards your catches UNLESS you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon).
 
 4. "Brock Buddy": 
