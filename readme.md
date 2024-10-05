@@ -128,6 +128,8 @@ Catch Rate set to "4"
 321WRIEEjIBAAQABwCRAAKeBhsESQEACQACCQAuEgAAAAAABRi45ATkAYgICTIGBAIyHwUYEEZpcmUgUmVkIChVKSAxLjGToHDj48M4ig==
 ```
 
+If you prefer [rqns file](https://github.com/BigMurph619/Murphmon/blob/e610a14a5c60a1e8b3fce344f5a23746b2c388ea/FRLG%20Murphmon%20Settings%20String.rnqs)
+
 These are the same settings as [Super Kaizo IronMON](https://gist.github.com/UTDZac/a147c497424dfbd537d8c4b0c22b5621#fire-red--leaf-green)
 
 [Java](https://www.java.com/en/download/manual.jsp)
