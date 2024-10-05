@@ -1,5 +1,7 @@
 # Murphmon Rules
 
+Created by [BigMurph619](https://www.twitch.tv/bigmurph619)
+
 ### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [Fire Red Specifics Rules](#specific-game-rules)
 ## Core Game Rules
 
