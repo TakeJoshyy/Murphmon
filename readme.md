@@ -170,7 +170,7 @@ These are the same settings as [Super Kaizo IronMON](https://gist.github.com/UTD
     - You may catch 1 free pivot of each of your favorites (additional catches count towards your 6 pivot catches).
     - All shinies are free catches
     - You may only level up each Pokemon once before committing to a pivot.
-    - You may only get 2 of same mon as option (Favorites/shinies/illegal mons do not count towards these 2)
+    - You may only get 2 of same mon as an option (Favorites/shinies/illegal mons do not count towards these 2)
     -You may create save states to retry catching encounters or “catch and stow” potential options before committing to them to save time. If you see any of the Pokemon’s stats (including its HP within your party), it automatically counts as one of your catches.
 
 12. You must beat Koga and the remainder of the game with your Safari Zone pivot.
@@ -179,7 +179,7 @@ These are the same settings as [Super Kaizo IronMON](https://gist.github.com/UTD
 
 14. Sevii islands are treated as "overworld". All items allowed, all exp allowed, etc. You may return to Sevii islands at any point. You may use a second HM friend for Rock Smash as needed.
 
-15. Double battles: you may use any legal second mon you have already caught. You may attack freely with the second mon and it may hold legal held items. You may only have 2 Pokemon in your party.
+15. Double battles: you may use any legal second mon you have already caught. You may attack freely (Including HM moves) with the second mon and it may hold legal held items. You may only have 2 Pokemon in your party.
 
 16. All held items found on pivot options, Brockbuddies, HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed. Purchased/gifted mon's items are not allowed i.e. Magikarp Route 4, Silph Co. Lapras, Dojo Hitmon. You may not catch a wild mon unless it is a pivot option, Brockbuddy, Shiny or needed for HM friend.
 
