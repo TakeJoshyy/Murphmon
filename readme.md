@@ -2,8 +2,9 @@
 
 Created by [BigMurph619](https://www.twitch.tv/bigmurph619)
 
-### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [Fire Red Specifics Rules](#specific-game-rules)
-## Core Game Rules
+### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [FRLG Specifics Rules](#specific-game-rules) | [Credits](#Credits)
+
+# Core Game Rules
 
 You must only use 1 Pokemon for all fights and encounters except double battles unless otherwise denoted.  
 I.e. [**“Brock Buddy” rule.**](#specific-game-rules)
@@ -157,16 +158,16 @@ These are the same settings as [Super Kaizo IronMON](https://gist.github.com/UTD
 
 5. All hidden items are allowed. You may only obtain step items once each.
 
-6. All found and gifted TMs are allowed - all move tutors are allowed (i.e. mega punch/kick guys after mt. Moon). - **No HMs.**
+6. All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed (i.e. mega punch/kick guys after mt. Moon). - **No HMs.**
     - You may only relearn Sketch once from the move relearner.
     - You may use Sketch multiple times if you receive the move in any other capacity.
     - You are allowed to throw balls to scout. BUT, if you accidentally catch a mon while Sketch scouting you must release it and not take its item.
 
 7. You must beat Misty before “Dig” Rocket.
 
-8. You must beat Lt. Surge before entering  Rock Tunnel.
+8. You must beat Lt. Surge before entering Rock Tunnel.
 
-9. SS Anne EXP and item farming is allowed
+9. SS Anne EXP and item farming is allowed (Treat this as a dungeon).
 
 10. You must beat Erika before waking up Snorlax.
 
@@ -182,10 +183,22 @@ These are the same settings as [Super Kaizo IronMON](https://gist.github.com/UTD
 
 13. You must beat Sabrina before entering the Pokemon Mansion.
 
-14. Sevii islands are treated as "overworld". All items allowed, all exp allowed, etc. You may return to Sevii islands at any point. You may use a second HM friend for Rock Smash as needed.
+14. Sevii islands are treated as "overworld". All items allowed, all exp allowed, etc. 
+    - You may return to Sevii islands at any point. 
+    - You may use a second HM friend for Rock Smash as needed.
 
-15. Double battles: you may use any legal second mon you have already caught. You may attack freely (Including HM moves) with the second mon and it may hold legal held items. You may only have 2 Pokemon in your party.
+15. Double battles: 
+    - You may use any legal second mon you have already caught. 
+    - You may attack freely with the second mon and it may hold legal held items. 
+    - You may only have 2 Pokemon in your party.
 
-16. All held items found on pivot options, Brockbuddies, HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed. Purchased/gifted mon's items are not allowed i.e. Magikarp Route 4, Silph Co. Lapras, Dojo Hitmon. You may not catch a wild mon unless it is a pivot option, Brockbuddy, Shiny or needed for HM friend.
+16. All held items found on pivot options/HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed. 
+    - Purchased/gifted mon's items are not allowed i.e. Magikarp Route 4, Silph Co. Lapras, Dojo Hitmon. 
+    - You may not catch a wild mon unless it is a pivot option, Shiny, or needed for HM friend.
+
+# Credits
+ - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Super Kaizo IronMON
+ - [PyroMike](https://github.com/PyroMikeGit) For the Smart AI Randomizer v2
+ - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
 
 ### [Top](#murphmon-rules) | [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [Fire Red Specifics Rules](#specific-game-rules)
