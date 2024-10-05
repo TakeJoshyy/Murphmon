@@ -32,7 +32,9 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 
 ---
 
-|    Dungeons   |
+> Note: All caves are dungeons except on Sevii Islands. 
+
+|  **Dungeons** |
 | :-----------: |
 |All Gyms       |
 |Lavender Tower |
@@ -40,13 +42,7 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 |Silph co       |
 |Pokemon Mansion|
 |SS Anne        |
-
-> You may not enter Lavender Tower until you have the Silph Scope and are ready to rescue Fuji
-
-> Rocket Hideout Includes the Game Corner
-
->You must obtain HM01 Cut before leaving SS Anne, fight order is your choice
-
+| :-----------: |
 |     Caves     |
 | :-----------: |
 |Mt. Moon       |
@@ -54,6 +50,12 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 |Rock Tunnel    |
 |Seafoam Islands|
 |Victory Road   |
+
+> You may not enter Lavender Tower until you have the Silph Scope and are ready to rescue Fuji
+
+> Rocket Hideout Includes the Game Corner
+
+>You must obtain HM01 Cut before leaving SS Anne, fight order is your choice
 
 >Forests are NOT dungeons
 
