@@ -24,7 +24,7 @@ You may not intentionally kill a wild Pokemon for EXP unless game progression re
 
 No Redos: You may not re-fight trainers at any point using the VS Seeker or other means. You may not abuse respawning items by picking them up more than once
 
-No HM Moves on your primary Pokemon. No may use HM moves during double battles with your second Pokemon.
+No HM Moves on your primary Pokemon. You may use HM moves during double battles with your second Pokemon (FRLG).
 
 You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit.
 You may not use healing stations in Dungeons.
