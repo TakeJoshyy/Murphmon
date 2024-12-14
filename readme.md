@@ -199,6 +199,7 @@ These are the same settings as [Super Kaizo IronMON](https://gist.github.com/UTD
     - You may not catch a wild mon unless it is a pivot option, Shiny, or needed for HM friend.
 
 # Credits/Useful Links
+ - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/BigMurph619/TheMurphVerse) 
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Super Kaizo IronMON
  - [PyroMike](https://github.com/PyroMikeGit) For the Smart AI Randomizer v2
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
