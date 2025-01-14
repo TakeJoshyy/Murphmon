@@ -64,7 +64,7 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 
 # Banned items:
 
-`Any non-consumable held items. Reviving items. X Speed, X Attack, X Special Attack on Bosses only` (Gym Leaders, E4, Champ).
+Any non-consumable held items. Reviving items. X Items are not allowed on the Elite 4 or Champion.
 
 **NOTE:** You may not use flutes of any kind except for waking Snorlax.
 
@@ -82,7 +82,7 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 
 **NOTE:** You are allowed to use a banned move either through **Transform, metronome or after copying it using Mimic or Mirror Move.**
 
-Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc. cannot be used on bosses (Gym Leaders and Pokemon League).
+Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc. cannot be used on bosses AFTER the Safari Zone Pivot has been made (Gym Leaders and Pokemon League).
 
 # Other General Rules
 
