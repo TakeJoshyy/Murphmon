@@ -64,7 +64,7 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 
 # Banned items:
 
-Any non-consumable held items except any item (whether held or used) to provide a reduction of wild spawns occurring or running away from wild encounters may be used i.e. smoke ball, black flute, etc. Reviving items. X Items are not allowed on the Elite 4 or Champion.
+Any non-consumable held items except items for repeling or escaping wild encounters. Reviving items. X Items are not allowed on the Elite 4 or Champion.
 
 **NOTE:** You may not use status healing flutes except the poke flute for waking Snorlax and scouting wild Pokemon.
 
