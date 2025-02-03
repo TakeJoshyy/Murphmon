@@ -172,7 +172,7 @@ These are the same settings as [Super Kaizo IronMON](https://gist.github.com/UTD
 10. You must beat Erika before waking up Snorlax.
 
 11. You must pivot to a new Pokemon that has not progressed you through the game yet from the Safari Zone (Brock Buddy is eligible for pivoting so long as it was not one of your Mons that progressed you through the game in another capacity). You may catch up to 6 Safari Zone pivot options.
-    - Banned ability mons don't count towards your catches UNLESS you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon). -If you evolve an illegal mon into a legal one with a stone or rare candy that counts as 1 pivot still. You may not level up an illegal mon on trainers.
+    - Banned ability mons don't count towards your catches **UNLESS** you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon). -If you evolve an illegal mon into a legal one with a stone or rare candy that counts as 1 pivot still. You may not level up an illegal mon on trainers.
     - You may catch 1 free pivot of each of your favorites (additional catches count towards your 6 pivot catches).
     - All shinies are free catches
     - You may only level up each Pokemon once before committing to a pivot.
