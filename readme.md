@@ -1,7 +1,5 @@
 # Murphmon Rules
 
-Created by [BigMurph619](https://www.twitch.tv/bigmurph619)
-
 ### [Core Game Rules](#Core-Games-Rules) | [Settings](#settings) | [FRLG Specifics Rules](#specific-game-rules) | [Credits](#Credits)
 
 # Core Game Rules
@@ -199,6 +197,7 @@ These are the same settings as [Super Kaizo IronMON](https://gist.github.com/UTD
     - You may not catch a wild mon unless it is a pivot option, Shiny, or needed for HM friend.
 
 # Credits/Useful Links
+ - Created by [BigMurph619](https://www.twitch.tv/bigmurph619)
  - [BigMurph619](https://www.twitch.tv/bigmurph619) Creator of the [Murphverse](https://github.com/BigMurph619/TheMurphVerse) 
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Super Kaizo IronMON
  - [PyroMike](https://github.com/PyroMikeGit) For the Smart AI Randomizer v2
